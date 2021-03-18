@@ -9,3 +9,4 @@ Disallow:
 # some line
 
 #Prasad edit 1 line added to demonstate usage of git  pull command
+#Prasad edit 2 line added to demonstrate usage of push command
